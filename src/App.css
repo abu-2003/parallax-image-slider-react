@@ -1,0 +1,36 @@
+html,
+body {
+  overscroll-behavior: none;
+  margin: 0px;
+  padding: 0 px;
+}
+
+.Swiper {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, rgb(42, 40, 40), black);
+  background-attachment: fixed;
+
+  transition: background-color 0.3s ease-in-out;
+}
+
+h1 {
+  font-family: "Shrikhand", serif;
+  color: rgb(204, 0, 255);
+  font-size: 4rem;
+  text-align: center;
+  font-weight: 400;
+  position: relative;
+  z-index: 1;
+}
+h2{
+   
+    font-family: "Shrikhand", serif;
+    font-weight: 400;
+   
+  text-align: center;
+  color: #6c77a7;
+  margin-top: 50px;
+  font-size: 2rem;
+ 
+}
+
